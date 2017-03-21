@@ -1,0 +1,92 @@
+body{
+	font-family:"맑은 고딕", "Bradley Hand ITC";
+}
+a {
+    color: 
+}
+#wrapper{
+    margin: auto;
+	width: 1000px;	
+}
+header {
+	height: 120px;
+	background-color: #C0D0BD;
+	background-image: url(images/nav2.png);
+
+}
+.ddd {
+float: left;
+margin: 15px;
+margin-top: 5px;
+}
+
+.ddd a div {
+	color:saddlebrown;
+	font:Bradley Hand ITC
+}
+.ddd a {
+    text-decoration: none;
+}
+
+footer p {
+	padding:15px;
+    
+}
+h1{font-size:2em;}
+h2{font-size:1.5em;}
+h3 {font-size:1.0em;}
+p {
+	line-height:0px;
+	font-size:12px;
+}
+section {
+  margin: auto;
+  width:580px;
+  padding:5px;
+}
+section article{
+	float:left;
+	width:250px;
+	height:220px;	
+	margin:5px;
+	padding:10px;	
+	border:1px solid #ccc;
+}
+aside{
+  float:right;
+  width:200px;
+  height:auto;
+  margin-top:80px;
+  border:1px solid darkgreen;
+  text-align:center;
+}
+footer{
+	clear:both;
+	margin: 10 auto;
+	background-color:#333;
+	color:white;	
+	text-align:center;
+}
+.at1, .at2, .at3, .at4 {
+	transition:2s;
+	-webkit-transition:2s;
+	-moz-transition:2s;
+	-o-transition:2s;
+	-ms-transition:2s;
+}
+.at1:hover{
+	background-color:#cf9;
+	border:1px solid green;
+}
+.at2:hover{
+	background-color:#a2d0ff;;
+	border:1px solid blue;
+}
+.at3:hover{
+	background-color:#ebcbfe;
+	border:1px solid purple;
+}
+.at4:hover{
+	background-color:#fc3;
+	border:1px solid red;
+}

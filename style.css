@@ -1,0 +1,11 @@
+body {
+         /*background:url(main.jpg) no-repeat left top fixed;*/
+         background-size:cover ;
+}
+#wrapper {
+    margin:0 auto;
+    width:90%;
+    backfround :#EFF4EE
+    border:1px solid #ccc;
+}
+
